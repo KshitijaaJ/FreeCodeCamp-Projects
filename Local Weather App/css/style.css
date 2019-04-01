@@ -1,0 +1,47 @@
+body{
+  margin : 0;
+  background-color: #131313;
+  font-family: 'Noto Sans', sans-serif;
+  color: #ffffff;
+}
+.main{
+  height: 60vh;
+  padding: 6vh;
+  font-size: 2vmax;
+}
+.top-head{
+  font-size: 2.6vmax;
+  font-family: 'Poiret One', sans-serif;
+}
+.border{
+  width: 100px;
+  border-bottom: solid 1px #18c2f3;
+  margin: 20px 0;
+}
+.box{
+  font-size: 3vmax;
+  padding: 5vh;
+  position: relative;
+  top: 50%;
+  transform: perspective(1px) translateY(-50%);
+}
+.info-item{
+  font-size: 2.2vmax;
+}
+.w-icon{
+  height: 10vmax;
+}
+.temp{
+  cursor: pointer;
+}
+.temp:hover{
+  color: #18c2f3
+}
+.last{
+  padding-bottom: 2px;
+  border-bottom: solid 1px transparent;
+  transition: border-bottom 150ms ease-in-out;
+}
+.last:hover{
+  border-bottom: solid 1px #fff;
+}
