@@ -1,5 +1,3 @@
-A Pen created on [CodePen.io](https://codepen.io).
+Made as [FreeCodeCamp Project](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/)
 
-You can find this one at https://codepen.io/Kshitijaa/pen/QQPmGB.
-
-
+View it live at https://kshitijaaj.github.io/FreeCodeCamp-Projects/Random%20Quote%20Generator/
