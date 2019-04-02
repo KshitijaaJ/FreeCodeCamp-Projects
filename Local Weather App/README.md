@@ -1,4 +1,5 @@
 # Local-Weather-App
-Made as a part of FreeCodeCamp Challenge!
 
-View it live at: https://kshitijaaj.github.io/FreeCodeCamp-Projects/Local%20Weather%20App/
+Made as a [FreeCodeCamp Project](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/show-the-local-weather/)
+
+View it live at [here](https://kshitijaaj.github.io/FreeCodeCamp-Projects/Local%20Weather%20App/).
