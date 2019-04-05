@@ -1,3 +1,5 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/Kshitijaa/pen/bQOwoP.
+# Local-Weather-App
 
- There's much more to it than your eyes can see. Try to find it out. It's horribly easy!
+Made as a [FreeCodeCamp Project](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page/)
+
+View it live [here](https://kshitijaaj.github.io/FreeCodeCamp-Projects/Product%20Landing%20Page/).
