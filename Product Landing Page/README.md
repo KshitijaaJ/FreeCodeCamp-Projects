@@ -1,4 +1,4 @@
-# Local-Weather-App
+# Product Landing Page
 
 Made as a [FreeCodeCamp Project](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page/)
 
