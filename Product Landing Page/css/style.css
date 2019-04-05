@@ -1,0 +1,212 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:200, 400,700");
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding');
+body{
+  margin: 0;
+  width: 100%;
+  background-color: #170420;
+  color: #fff;
+}
+html{
+  width: 100%;
+}
+
+header{
+  margin: 0;
+  width: 100%;
+  position: fixed;
+  z-index: 2;
+}
+
+nav{
+  background-color: #170420ca;
+}
+
+#header-img{
+  height: 30px;
+}
+
+ul{
+  padding: 10px 20px;
+  width: 100%;
+  display: flex;
+  text-align: right;
+  margin: 0;
+  justify-content: space-around;
+}
+
+
+.nav-link{
+  color: #fff;
+  text-decoration: none;
+  border-bottom: solid 1px transparent;
+  transition-duration: 300ms;
+}
+
+li{
+  float: right;
+  list-style: none;
+}
+
+
+.nav-link:hover{
+  color: #fff;
+  border-bottom: solid 1px #fff;
+  transition-duration: 300ms
+}
+
+.first{
+  height: 100vh; 
+}
+
+.row{
+  height: 100vh;
+}
+
+#top-img{
+  width: 100%;
+  height: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.top-desc-main{
+  font-size: 30px;
+}
+
+@media only screen and (max-width: 992px){
+  .top-desc-main{
+    text-align: center;
+  }
+}
+
+.top-desc1{
+  font-size: 25px;  
+}
+
+.top-desc2{
+  font-family: 'Nanum Gothic Coding', monospace;
+  font-size: 35px;
+}
+
+.co-name{
+  font-family: 'Nanum Gothic Coding', monospace;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+
+.second{
+    padding: 0 40px 0 40px;
+    min-height : 100vh;
+    background-color: #030821;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#video{
+  height: 40vmin;
+  width: 70%;
+}
+
+.blah-desc{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  text-align: left;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+#features{
+    min-height: 100vh;
+    background-color: #130017;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0 70px;
+}
+
+#features > div{
+    padding: 20px 20px;
+    margin: 10px 30px;
+    background-color: #fff;
+    width: 300px;
+    height: 300px;
+    color: #000;
+    display: flex;
+    text-align:  center;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+#features > div > div:nth-child(2){
+  padding-top: 10px;
+  height: 80px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #130017
+}
+
+#features > div > div:nth-child(3){
+  font-size: 15px;
+  font-weight: 300;
+}
+
+#features > div > img{
+  height : 100px;
+  width: auto;
+}
+
+.row{
+  margin-right: 0 !important;
+}
+
+#contact{
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#email{
+  margin-top: 5px;
+  padding: 5px 10px;
+  width: 300px;
+  background: #ffffff20;
+  transition-duration: 1s;
+  border: none;
+  highlight: none;
+}
+
+#email:focus{
+  background: #fff;
+  transition-duration: 1s;
+}
+
+#submit{
+  padding: 5px 10px;
+}
+
+.footer{
+  border-top: solid 1px #000;
+  height: 20vh;
+  background-color: #191616;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.footer > *{
+  padding: 0 3px;
+  margin-right: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid transparent;
+  transition-duration: 300ms;
+}
+
+.footer>a:hover{
+  border-bottom-color: #fff;
+  transition-duration: 300ms;
+}
