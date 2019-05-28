@@ -1,6 +1,8 @@
 # FreeCodeCamp-Projects
 
-Repo for all the projects madeas a part of [FreeCodeCamp](https://freecodecamp.org) [curriculum](https://learn.freecodecamp.org/).
+Repo for all the projects made as a part of [FreeCodeCamp](https://freecodecamp.org) [curriculum](https://learn.freecodecamp.org/).
+
+**Caution:** I haven't invested enough brainpower to make these responsive yet. You may try them on small screens at your own risk.
 
 ## List of projects:
 
