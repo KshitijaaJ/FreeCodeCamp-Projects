@@ -6,7 +6,7 @@ Repo for all the projects made as a part of [FreeCodeCamp](https://freecodecamp.
 
 ## List of projects:
 
-- [Random Quote Generator](Random%20Quote%20Generator/index.html) ([in Curriculum](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/))
+- [Random Quote Generator](https://deutranium.github.io/FreeCodeCamp-Projects/Random%20Quote%20Generator/index.html) ([in Curriculum](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/))
 
 - [Local Weather App](https://deutranium.github.io/FreeCodeCamp-Projects/Local%20Weather%20App/) ([in Curriculum](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/show-the-local-weather/))
 
